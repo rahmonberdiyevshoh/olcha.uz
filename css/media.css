@@ -1,0 +1,20 @@
+@media only screen and (max-width: 768px) {
+  section:nth-child(2) {
+    display: none;
+  }
+
+  main .sticky {
+    top: -85px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  section:nth-child(2) {
+    display: none;
+  }
+
+  main .sticky {
+    top: -85px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
