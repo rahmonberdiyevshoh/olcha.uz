@@ -300,6 +300,11 @@ section:nth-child(5) .row:nth-child(2) .carousel .col-lg-3:hover .card-product-b
   box-shadow: 0px 0px 15px 4px rgba(0, 0, 0, 0.2);
 }
 
+body {
+  background: radial-gradient(rgba(231, 188, 188, 0.39), rgba(221, 139, 145, 0.548), #fff) fixed;
+  background: conic-gradient(#e2aaaa, rgba(240, 210, 210, 0.39), #fff) fixed;
+}
+
 .d-hide {
   opacity: 0;
   height: 0;

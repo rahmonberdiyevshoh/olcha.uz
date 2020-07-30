@@ -298,3 +298,8 @@ section:nth-child(5) {
         }
     }
 }
+
+body {
+    background: radial-gradient(rgba(231, 188, 188, 0.39), rgba(221, 139, 145, 0.548), #fff) fixed;
+    background: conic-gradient(rgb(226, 170, 170), rgba(240, 210, 210, 0.39), #fff) fixed;
+}
